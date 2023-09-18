@@ -2,7 +2,10 @@
 
  ## Projeto ContaBanco que recebera dados via terminal, contendo as caracteristicas de conta em banco conforme atributos abaixo :
 
-###  Atributos        
+###  Atributos utilizados        
+
+
+## Variaveis
 * NumeroConta
 * Agência
 * NomeCliente
